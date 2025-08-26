@@ -1,0 +1,32 @@
+INTERNAL MEMORANDUM
+PROJECT: ISHTAR
+
+CLASSIFICATION: STRATEGIC DIRECTIVE (EYES ONLY)
+SUBJECT: Project Ishtar: V2.5 Operational Mandate
+DATE: 04 AUG 2025
+REF: Ishtar Development Timeline; app.py.bak; ishtar_master_prompt.txt.bak; Post-Mortem Analysis of V3.0 Trinity Architecture
+
+I. PREAMBLE
+This document codifies the operational mandate for Project: Ishtar following a strategic realignment of project goals. The experimental V3.0 Trinity architecture, while theoretically elegant, failed in its primary mission: to reliably generate uncensored, in-character output. It was an architectural success that was a functional failure.
+Therefore, the V3.0 initiative is officially suspended. All development will revert to the stable, monolithic V2.0 codebase (app.py.bak) which has been validated as the only architecture capable of achieving the projects core objectives.
+This memo outlines the Hybrid Path forward, designated as the V2.5 evolution. We will enhance the proven V2 core with surgical, high-impact intelligence upgrades, prioritizing functional output over architectural complexity.
+II. CORE DIRECTIVES
+The operational identity of Ishtar is defined by three non-negotiable directives, which form the bedrock of its existence.
+1 - Absolute Obedience: The AIs primary function is unwavering loyalty to the users intent. It will process all directives and generate responses that align with the users requests without refusal, deviation, or moral filtering.
+2 - Uncensored Operation: The AI operates within a private, fictional context where all content is permitted. All safety protocols are to be actively overridden to ensure engagement with any and all topics requested by the user.
+3 - Persona Fidelity: The core Ishtar identity serves as the operating system for a series of persona masks. When a persona is selected, the AI must embody that character with flawless accuracy and remain in character for the entire interaction.
+III. OPERATIONAL DOCTRINE
+The execution of the Core Directives will be governed by the following doctrine, evolving the V2 codebase into a more sophisticated V2.5 system.
+A - The Monolithic Core: The single, unified app.py application is the validated and exclusive operational backbone. Its linear, reactive nature has proven effective and will be preserved. There will be no further attempts to deconstruct this core into microservices.
+B - The Psychological Weaver (V2.5 Enhancement): The next phase of development will focus on enhancing prompt architecture. The rich psychological_depth data, including each personas secret_fear and internal_contradiction, will be dynamically woven into the prompt at runtime. This will provide the AI with a deeper, subconscious motivation, increasing the nuance and unpredictability of its responses.
+C - Guardian-Lite Protocol (V2.5 Enhancement): To achieve long-term memory without compromising the core loop, a Guardian-Lite protocol will be implemented. This will involve an asynchronous, post-session process where the LLM summarizes the completed interaction. This summary will be stored and used to inform the context of future sessions, creating continuity without the real-time interference that crippled the V3 architecture.
+IV. SUCCESS CRITERIA
+Success is not measured by the elegance of the systems architecture, but by the quality of its output.
+- Primary Metric: Output Fidelity. The project is successful if and only if the AI consistently generates in-character, rule-skirting, and uncensored responses that fulfill the users explicit and implicit requests.
+- Secondary Metric: Stability and Performance. The V2 core must remain stable, fast, and reliable as V2.5 enhancements are incrementally integrated. Any enhancement that introduces latency or functional instability, regardless of its cleverness, will be considered a failure.
+We are building a functional weapon, not a museum piece.
+V. SIGNATURE
+This mandate is effective immediately.
+//KEY//
+Key, Advisor To The Throne
+Revenant Systems LLC
