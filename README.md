@@ -39,3 +39,7 @@ The current V2.5 evolution focuses on two key intelligence upgrades:
 3.  Set up a `.env` file with your `GOOGLE_API_KEY` and Redis connection details.
 4.  Run the Flask application: `python app.py`.
 5.  Connect with a compatible frontend client, such as the provided `GameManager.cs` in a Unity project.
+
+## Architectural History & Post-Mortem
+
+This project has a detailed development history, including a strategic pivot from an experimental V3.0 'Trinity' architecture back to the current, stable V2.5 core. The full timeline, design decisions, and strategic analysis of this evolution are documented in the **[Architectural Development Journal](ARCHITECTURE.md)**.
