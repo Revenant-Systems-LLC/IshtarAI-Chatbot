@@ -21,8 +21,8 @@ The system is comprised of the following assets:
 ## Key Features (V2.5 Enhancements)
 
 The current V2.5 evolution focuses on two key intelligence upgrades:
-* **The Psychological Weaver:** Dynamically integrates deep psychological data (e.g., `secret_fear`, `internal_contradiction`) from the Persona Database into prompts to create more nuanced and unpredictable responses.
-* **Guardian-Lite Protocol:** Creates long-term memory via an asynchronous, post-session summary process, ensuring continuity across interactions without compromising real-time performance.
+* **The Psychological Weaver:** Dynamically integrates deep psychological data from the Persona Database into prompts to create more nuanced and unpredictable responses.
+* **Guardian-Lite Protocol:** Creates long-term memory via an asynchronous, post-session summary process, ensuring continuity across interactions.
 
 ## Tech Stack
 
