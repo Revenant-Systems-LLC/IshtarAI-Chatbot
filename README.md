@@ -40,8 +40,18 @@ The current V2.5 evolution focuses on two key intelligence upgrades:
 4.  Run the Flask application: `python app.py`.
 5.  Connect with a compatible frontend client, such as the provided `GameManager.cs` in a Unity project.
 
----
-
 ## Architectural History & Post-Mortem
 
 This project has a detailed development history, including a strategic pivot from an experimental V3.0 'Trinity' architecture back to the current, stable V2.5 core. The full timeline, design decisions, and strategic analysis of this evolution are documented in the **[Architectural Development Journal](ARCHITECTURE.md)**.
+
+## ⚖️ Legal
+
+This project is developed by **Revenant Systems LLC**.
+
+By using this software or interacting with its hosted AI agents, you agree to the following:
+
+- [Privacy Policy](https://yourusername.github.io/gpt-legal/privacy.html)
+- [Terms of Use](https://yourusername.github.io/gpt-legal/terms.html)
+- [Disclaimer](https://yourusername.github.io/gpt-legal/disclaimer.html)
+
+All rights reserved © 2025 Revenant Systems LLC.
